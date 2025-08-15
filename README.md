@@ -88,6 +88,8 @@ fls -f fat -o 0 disk.dd
 
 <img width="544" height="238" alt="Screenshot 2025-08-15 213145" src="https://github.com/user-attachments/assets/f98e0267-b1d0-4040-9add-e8da2a8095c4" />
 
+
+
 <img width="455" height="217" alt="Screenshot 2025-08-15 213200" src="https://github.com/user-attachments/assets/1eb88f3a-bca0-4b31-84e7-d4b0f99174c7" />
 
 
