@@ -73,14 +73,19 @@ icat.exe -o 2048 C:\forensics\disk.dd 6 > C:\forensics\image.jpg
 Disk Structure Analysis Results
 ## Create disk
 <img width="504" height="274" alt="Screenshot 2025-08-15 213005" src="https://github.com/user-attachments/assets/08770429-f26d-4783-afd7-0ed57207130a" />
+
 ## mmls
+
 ```
 mmls disk.dd
 ```
+
 ## fls
+
 ```
 fls -f fat -o 0 disk.dd
 ```
+
 <img width="544" height="238" alt="Screenshot 2025-08-15 213145" src="https://github.com/user-attachments/assets/f98e0267-b1d0-4040-9add-e8da2a8095c4" />
 
 <img width="455" height="217" alt="Screenshot 2025-08-15 213200" src="https://github.com/user-attachments/assets/1eb88f3a-bca0-4b31-84e7-d4b0f99174c7" />
