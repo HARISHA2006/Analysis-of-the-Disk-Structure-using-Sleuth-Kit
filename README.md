@@ -1,4 +1,6 @@
 # Analysis-of-the-Disk-Structure-using-Sleuth-Kit
+## NAME:HARISHA S
+## REG.NO: 212223040063
 ## AIM:
 To analyze the disk structure of a given disk image using Sleuth Kit tools in Kali Linux.
 
@@ -85,15 +87,11 @@ mmls disk.dd
 ```
 fls -f fat -o 0 disk.dd
 ```
-<img width="544" height="238" alt="Screenshot 2025-08-15 213145" src="https://github.com/user-attachments/assets/644fa4b9-2d58-43cd-9c91-e5649630a148" />
 
 
+<img width="544" height="238" alt="Screenshot 2025-08-15 213145" src="https://github.com/user-attachments/assets/4f16229e-acb9-4516-b46b-88755d823a9d" />
 
-
-
-
-
-<img width="455" height="217" alt="Screenshot 2025-08-15 213200" src="https://github.com/user-attachments/assets/d7a21871-2e3f-4411-8069-a57f2ae0fa1f" />
+<img width="455" height="217" alt="Screenshot 2025-08-15 213200" src="https://github.com/user-attachments/assets/5a40cc25-ae3b-4264-a841-1d35080c17dc" />
 
 ## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
